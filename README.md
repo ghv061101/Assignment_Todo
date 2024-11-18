@@ -7,7 +7,7 @@ For more details, visit my GitHub Gist: [https://gist.github.com/ghv061101](http
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   https://github.com/ghv061101/Assignment_Todo.git
 2. installation:
    ```bash
    npm install
