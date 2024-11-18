@@ -10,8 +10,9 @@ You can access the live website at:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository.git
-
-cd your-repository
-npm install
-
-npm start
+2. installation:
+   ```bash
+   npm install
+3. Run Website:
+   ```
+    npm start
